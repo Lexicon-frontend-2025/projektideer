@@ -3,7 +3,7 @@ Förslag på individuella projekt i Next.js (eller liknande) som kan användas f
 under kursen.
 
 ### 🪲 Portfolio / CV-sajt
-En personlig webbplats där du presenterar dig, dina projekt och kontaktuppgifter.
+En personlig webbplats där du presenterar dig, dina projekt från github eller vercel, etc och kontaktuppgifter.
 * Extra: bloggsektion, dark mode, animationer med Framer Motion.
 * Visar: routing, komponenter, design, deployment.
 
