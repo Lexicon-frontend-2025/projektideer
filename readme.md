@@ -67,3 +67,4 @@ Interaktiv app som visar Nobelpristagare via det öppna Nobel Prize API:t.
 * Filtrera per år/kategori, statistik med Chart.js/Recharts, detaljer per pristagare.
 * Visar: API-anrop, datavisualisering, routing, UI-design.
 * API: https://api.nobelprize.org/2.1/nobelPrizes
+* Figma: https://www.figma.com/design/lE54aXdSBU8k2Uhlb3m5gY/Untitled?node-id=0-1&t=YGCrdwcpLHBlksc1-1
